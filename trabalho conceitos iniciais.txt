@@ -1,0 +1,22 @@
+
+1- Arquivo: espaço no computador o qual são armazenadas informações, sendo
+referido como documentos que eram guardados em ARQUIVOS nas bibliotecas
+antigamente, por exemplo.
+Eles podem possuir dados estruturados em estrutura de dados ou em registros;
+ou podem não ser estruturados, possuindo bytes, o qual indica a quantidade de
+memória.
+Cabe ressaltar que o formato do arquivo quem decide é quem está executando o
+projeto.
+2- Arquivo de texto: é um arquivo o qual possui texto simples que são legíveis às
+pessoas, servindo para armazenamento de dados no formato JSON; CSV, por
+exemplo. O interessante deste arquivo é a possibilidade de poder abrir em
+qualquer software, mas deve ter a codificação correta tendo em vista que os
+bytes são mapeados através de codificação.
+3- Variável: conteúdo o qual varia de valor conforme a alteração no processo da
+execução, isto porque ela manipula o código-fonte a fim de executar operações.
+Duas das finalidades é evitar que o projetista opere de forma proibida e faz com
+que o software trate os dados corretamente.
+4- Servidor: computador que possui bancos de memórias, software ou até mesmo
+sistema como hard disk internos ou memórias ssd; a fim de rotear serviços que
+estão inseridos na rede lan ou wan.
+5- Repositório GITHUB: https://github.com/ana32145/soulinda.git
