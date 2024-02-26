@@ -20,3 +20,21 @@ que o software trate os dados corretamente.
 sistema como hard disk internos ou memórias ssd; a fim de rotear serviços que
 estão inseridos na rede lan ou wan.
 5- Repositório GITHUB: https://github.com/ana32145/soulinda.git
+
+a)	Data center é um local físico onde se encontra computadores e hardeware, assim como servidores, sistema de armazenamento de dados e rede, sendo importante para as empresas por controlar o uso das maquinas de forma mais econômica e ágil. 
+Existe data center terceirizado. 
+A lei 13709/2018 ( Lei de Proteção de dados) foi criada para proteger os dados pessoais dos cidadãos, assim, os colaboradores devem realizar os projetos conforme a proteção dos dados, utilizando o método Privacy By Design. 
+Proteção de danos físicos: investir em segurança local e utilizar ISO 27000 e a PCI DSS., já que os danos físicos podem ter consequências nos dados das pessoas. 
+Proteção virtual: utilizar criptografia de dados, firewalls eprogramas antimalware
+Para garantir a finalidade da LGPD são destacados os seguintes cuidados: mapear dados, atualizar software e sistema de hardware, verificar recursos,  controlar os acessos.
+
+b) é através dos formatos de arquivos que ocorre a codificação das informações e seu armazenamento e recuperação de arquivo. Formatos abertos: utiliza padrões abertos divulgados a todos e todos podem utilizar sem importar com o criador, assim, os softwares conseguem instaurar em seus sistemas. 
+Tanto os software livre quanto proprietários devem ter a possibilidade de implantar o formato aberto.
+O formato proprietário é utilizada de forma privada, isto é outros sistemas não teriam capacidade de executar. Uma consequência ruim é caso o software deixe de operar, os dados se perderão
+
+b.1) formatos proprietários: DWG,SWF, DOC
+formatos abertos: MP3, FLAC, OGG
+
+b.2) dados públicos são dados disponibilizados à sociedade por conta de seus interesses, segurança ou prestação de contas; sendo respeitado a boa fe, finalidade e o interesse publico segundo a LGPD.
+
+
