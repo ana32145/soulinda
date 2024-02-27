@@ -28,13 +28,23 @@ Proteção de danos físicos: investir em segurança local e utilizar ISO 27000 
 Proteção virtual: utilizar criptografia de dados, firewalls eprogramas antimalware
 Para garantir a finalidade da LGPD são destacados os seguintes cuidados: mapear dados, atualizar software e sistema de hardware, verificar recursos,  controlar os acessos.
 
-b) é através dos formatos de arquivos que ocorre a codificação das informações e seu armazenamento e recuperação de arquivo. Formatos abertos: utiliza padrões abertos divulgados a todos e todos podem utilizar sem importar com o criador, assim, os softwares conseguem instaurar em seus sistemas. 
+b) é através dos formatos de arquivos que ocorre a codificação das informações e seu armazenamento e recuperação de arquivo. 
+
+Formatos abertos: Feito por comunidades, sendo utilizado formatos padrões abertos divulgados a todos (pública) e todos podem utilizar sem importar com o criador, assim, os softwares conseguem instaurar em seus sistemas. 
+A especificação é publica
 Tanto os software livre quanto proprietários devem ter a possibilidade de implantar o formato aberto.
-O formato proprietário é utilizada de forma privada, isto é outros sistemas não teriam capacidade de executar. Uma consequência ruim é caso o software deixe de operar, os dados se perderão
+Feito por comunidades
+
+O formato proprietário é utilizada de forma privada, isto é, controlados e desenvolvidas por entidades especificas podendo decidir se tem acesso ou não àquele formato não o contéudo.
+Pode ser desenvolvido por empresa ou organização
+outros sistemas não teriam capacidade de executar. Uma consequência ruim é caso o software deixe de operar, os dados se perderão
+O fato de ser proprietário não quer dizer que gerarão segurança
 
 b.1) formatos proprietários: DWG,SWF, DOC
 formatos abertos: MP3, FLAC, OGG
 
 b.2) dados públicos são dados disponibilizados à sociedade por conta de seus interesses, segurança ou prestação de contas; sendo respeitado a boa fe, finalidade e o interesse publico segundo a LGPD.
+Pode ser dado coletado ou oriundo do Poder Público.
+Pode ser tanto em formato aberto quanto fechado
 
 
