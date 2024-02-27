@@ -1,5 +1,8 @@
 trabalho execução PHYTON
 https://github.com/ana32145/soulinda/blob/main/Captura%20de%20tela%202024-02-27%20103542.png
 
-trabalho execução JAVA
+trabalho execução JAVASCRIPT
 https://github.com/ana32145/soulinda/blob/main/java.png
+
+trabalho execução ruby
+https://github.com/ana32145/soulinda/blob/main/ruby.png
