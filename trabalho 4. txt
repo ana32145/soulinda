@@ -1,5 +1,18 @@
 Codigo estrutura de repetição:
 https://github.com/ana32145/soulinda/blob/main/estrutura%20de%20repeti%C3%A7%C3%A3o.png
 
+for f in range(10):
+    print("valor de f: " + str (f))
+
+
+
 Codigo tomada de decisao
 https://github.com/ana32145/soulinda/blob/main/tomada%20de%20decisao.png
+
+A = 30
+B = 45
+
+if B > A:
+    print("B é maior que A")
+else:
+    print("A é maior que B")
