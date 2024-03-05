@@ -6,3 +6,28 @@ https://github.com/ana32145/soulinda/blob/main/java.png
 
 trabalho execução ruby
 https://github.com/ana32145/soulinda/blob/main/ruby.png
+PHYTON
+É um programa de computação simples, e de de fácil compreensão isso porque não utiliza chaves e sim endentação para delimitação dos blocos de código
+Possui uma grande biblioteca padrão: possui pacotes e módulos que inserem diversas funções, como processar texto e armazenar dados , a consequência disto é a facilidade dos profissionais de resolverem algum problema
+É orientada por objetos: permite que o código fique estruturado podendo ocorrer a modularidade  e a reutilização
+Fácil em integrar outras linguagens da programação e do sistema
+Versátil: possui diversas finalidades, pode ser utilizado em projetos difíceis ou mais simples ( desenvolvimento de web, inteligência artificial, analise de dados). 
+
+JAVA SCRIPT
+utiliza linguagem mais complexa não sendo utilizado o 0-1, sendo de fácil interpretação para os humanos
+Quem executa é o programador, não sendo necessário entrar em servidores, o que torna mais complexo
+Não há necessidade de criar variáveis: cria scripts e insere em página HTML, sendo utilizada para programar sites
+É uma linguagem fácil de aprender
+Por ser identificável aos humanos, há uma correção de erros simplificados
+Não há problemas de compatibilidade com outras plataformas, podendo ser utilizada em diversos locais
+Biblioteca padrão: possui biblioteca padrão que armazena objetos array, date e math  e possui elementos como operadores, declarações e estruturas de controle
+
+RUBY
+Quem executa o código fonte é o interpretador, sendo linguagem interpretada, assim, possui linguagem simples e fácil compreensão
+Programador produz mais, isso porque Ruby possui bibliotecas e recursos.
+Possui orientação de objetos ( classes, módulos, números, strings)
+Versátil: Amplo campo de aplicações, podendo ser utilizado para desenvolver web, por conta do Ruby on Rails , desenvolvimento de jogos, automação de tarefas, scripting
+
+
+Ruby é uma linguagem interpretada, o que significa que o código-fonte é executado diretamente por um interpretador, sem a necessidade de compilação prévia. Ela é conhecida por sua produtividade e expressividade, permitindo aos programadores escreverem código de forma concisa e clara. 
+
