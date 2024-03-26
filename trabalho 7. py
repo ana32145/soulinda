@@ -1,19 +1,19 @@
 def calcular_media_e_soma(lista):
-    # Calcula a soma dos números na lista
+    # Calcula a soma dos nÃºmeros na lista
     soma = sum(lista)
-    # Calcula a média dividindo a soma pelo número de elementos
+    # Calcula a mÃ©dia dividindo a soma pelo nÃºmero de elementos
     media = soma / len(lista)
     return soma, media
 
 # Exemplo de uso:
 numeros = [1, 2, 3, 4]
 soma_resultado, media_resultado = calcular_media_e_soma(numeros)
-print(f"Soma: {soma_resultado}, Média: {media_resultado:.2f}")
+print(f"Soma: {soma_resultado}, MÃ©dia: {media_resultado:.2f}")
 def substituir_palavra(lista, palavra_procurada, nova_palavra):
     return [palavra.replace(palavra_procurada, nova_palavra) for palavra in lista]
 
 # Exemplo de uso:
-palavras = ["banana", "morango", "limão"]
+palavras = ["banana", "morango", "limÃ£o"]
 palavra_procurada = "morango"
 nova_palavra = "abacaxi"
 lista_alterada = substituir_palavra(palavras, palavra_procurada, nova_palavra)
